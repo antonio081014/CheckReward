@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">CheckReward</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_card_list">Card List</string>
+    <string name="title_activity_merchant_info">Merchant Info</string>
+
+</resources>

@@ -1,0 +1,10 @@
+
+bin/AndroidManifest.xml
+
+*.class
+
+gen/com/antonio081014/checkrewardclient/BuildConfig.java
+
+gen/com/antonio081014/checkrewardclient/R.java
+
+bin/jarlist.cache
