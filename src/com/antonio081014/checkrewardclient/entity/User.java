@@ -6,7 +6,7 @@ package com.antonio081014.checkrewardclient.entity;
 import java.util.List;
 
 /**
- * @author "Dev Perfecular Inc."
+ * @author Antonio081014
  * 
  */
 public class User {
@@ -17,7 +17,6 @@ public class User {
 
 	public User(long _user_ID, String _user_name, String _user_email,
 			String _user_phone, List<Merchant> _merchant_list) {
-		super();
 		this._user_ID = _user_ID;
 		this._user_name = _user_name;
 		this._user_email = _user_email;
